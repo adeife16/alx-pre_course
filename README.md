@@ -1,1 +1,2 @@
-My first readme
+Life no hard
+Nah you wan do ALX
