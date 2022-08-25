@@ -1,1 +1,2 @@
-0x01-git readme file
+Life no hard 
+Nah you wan do ALX
